@@ -1,4 +1,3 @@
-const { table } = require("console");
 
 function createCalendar(elem, year, month) {
 
